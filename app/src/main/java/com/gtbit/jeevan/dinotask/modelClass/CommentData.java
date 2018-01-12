@@ -1,4 +1,4 @@
-package com.gtbit.jeevan.dinotask.ModelClass;
+package com.gtbit.jeevan.dinotask.modelClass;
 
 /**
  * Created by jeevan on 12/1/18.

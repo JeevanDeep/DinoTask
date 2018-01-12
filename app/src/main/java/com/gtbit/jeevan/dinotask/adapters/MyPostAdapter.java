@@ -1,4 +1,4 @@
-package com.gtbit.jeevan.dinotask.Adapters;
+package com.gtbit.jeevan.dinotask.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,8 +11,8 @@ import android.widget.TextView;
 
 import com.amulyakhare.textdrawable.TextDrawable;
 import com.amulyakhare.textdrawable.util.ColorGenerator;
-import com.gtbit.jeevan.dinotask.Activity.DetailActivity;
-import com.gtbit.jeevan.dinotask.ModelClass.PostData;
+import com.gtbit.jeevan.dinotask.activity.DetailActivity;
+import com.gtbit.jeevan.dinotask.modelClass.PostData;
 import com.gtbit.jeevan.dinotask.R;
 
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.gtbit.jeevan.dinotask;
 
-import com.gtbit.jeevan.dinotask.ModelClass.CommentData;
-import com.gtbit.jeevan.dinotask.ModelClass.PostData;
+import com.gtbit.jeevan.dinotask.modelClass.CommentData;
+import com.gtbit.jeevan.dinotask.modelClass.PostData;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.gtbit.jeevan.dinotask.Adapters;
+package com.gtbit.jeevan.dinotask.adapters;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import com.amulyakhare.textdrawable.TextDrawable;
 import com.amulyakhare.textdrawable.util.ColorGenerator;
-import com.gtbit.jeevan.dinotask.ModelClass.CommentData;
+import com.gtbit.jeevan.dinotask.modelClass.CommentData;
 import com.gtbit.jeevan.dinotask.R;
 
 import java.util.List;

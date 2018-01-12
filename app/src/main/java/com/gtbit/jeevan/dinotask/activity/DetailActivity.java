@@ -1,13 +1,13 @@
-package com.gtbit.jeevan.dinotask.Activity;
+package com.gtbit.jeevan.dinotask.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.gtbit.jeevan.dinotask.Adapters.MyCommentAdapter;
+import com.gtbit.jeevan.dinotask.adapters.MyCommentAdapter;
 import com.gtbit.jeevan.dinotask.ApiService;
-import com.gtbit.jeevan.dinotask.ModelClass.CommentData;
+import com.gtbit.jeevan.dinotask.modelClass.CommentData;
 import com.gtbit.jeevan.dinotask.R;
 import com.gtbit.jeevan.dinotask.Utility;
 
